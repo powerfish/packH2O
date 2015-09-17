@@ -1,0 +1,45 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 540M (ID=0xdf4)
+    Vendor:   NVIDIA
+    VRAM:     973 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\PROJECT\UnityProject\2DProjects\New\packH2O\packH2O_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\PROJECT\UnityProject\2DProjects\New\packH2O\packH2O_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\PROJECT\UnityProject\2DProjects\New\packH2O\packH2O_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\PROJECT\UnityProject\2DProjects\New\packH2O\packH2O_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\PROJECT\UnityProject\2DProjects\New\packH2O\packH2O_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\PROJECT\UnityProject\2DProjects\New\packH2O\packH2O_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.223 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: D:\PROJECT\UnityProject\2DProjects\New\packH2O\packH2O_Data\Managed\System.Core.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Mono/MonoBehaviour.cpp Line: 1788)
+
+Platform assembly: D:\PROJECT\UnityProject\2DProjects\New\packH2O\packH2O_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Mono/MonoBehaviour.cpp Line: 1788)
+
+UnloadTime: 0.503530 ms
+System memory in use before: 14.1 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 240.
+Total: 1.187222 ms (FindLiveObjects: 0.033491 ms CreateObjectMapping: 0.018093 ms MarkObjects: 0.217888 ms  DeleteObjects: 0.023482 ms)
+
+UnloadTime: 2.608887 ms
+System memory in use before: 20.2 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 16.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 408.
+Total: 1.563330 ms (FindLiveObjects: 0.020402 ms CreateObjectMapping: 0.013473 ms MarkObjects: 0.317593 ms  DeleteObjects: 0.453870 ms)
+
